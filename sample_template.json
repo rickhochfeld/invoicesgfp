@@ -1,0 +1,19 @@
+{
+  "from": {
+    "name": "Acme Consulting LLC",
+    "email": "billing@acme-consulting.com",
+    "address_lines": [
+      "100 Main Street",
+      "Springfield, XY 12345"
+    ]
+  },
+  "bill_to": {
+    "name": "Client Corp",
+    "address_lines": [
+      "200 Market Ave",
+      "Capital City, XY 54321"
+    ]
+  },
+  "currency_symbol": "$",
+  "notes": "Payment due within 14 days. Thank you for your business."
+}
